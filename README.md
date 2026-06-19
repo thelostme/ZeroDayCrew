@@ -4,14 +4,12 @@ This repository contains the implementation of a server-client chatroom system b
 Designed for a chatroom application with a hacker-inspired theme. 🕶️
 
 ---
-<!-- Full-width image -->
-![Welcome Screen for Client](https://github.com/user-attachments/assets/2979b4af-8ffa-4373-9adf-a38beb41a578)
+<img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/0f5ed544-84a5-4515-ba1f-88cd8e9d0505" />
 
-<!-- Grid of 4 images -->
-| ![Client Side Configuration](https://github.com/user-attachments/assets/9b6cd3be-1196-445d-a39c-586d10f35d8d) | ![Client Side Logs](https://github.com/user-attachments/assets/5a28e8c5-8529-4fe2-8709-f027c28e7acc) |
-|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| ![Server Side Configuration](https://github.com/user-attachments/assets/8d8dc139-0747-49f1-9eaf-df77a20b39d4) | ![Server Side Logs](https://github.com/user-attachments/assets/7573ca6b-8778-49ff-932b-efba0c76d9b3) |
-
+| | |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/8494beac-9268-4edb-a54c-bb78673c5066" width="100%"> | <img src="https://github.com/user-attachments/assets/43e465f6-2007-4e06-8d8e-9de4786dba71" width="100%"> |
+| <img src="https://github.com/user-attachments/assets/f2fe9e3c-5274-4d3e-99e9-49801694276f" width="100%"> | <img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/cdff8a5a-ae10-4cba-bda4-70d5cf8895ca" /> |
 ## ✨ Features
 
 - **🛠️ Server Management**:
